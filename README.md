@@ -1,4 +1,6 @@
-# Macintosh SE Restoration
+# Holdt Macintosh Restoration
+
+Repository name: `holdt-macintosh`.
 
 This repository tracks the restoration of Willoughby's grandfather's Apple Macintosh SE and the plan to turn it into a preserved, reversible clock appliance.
 
