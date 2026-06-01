@@ -1,0 +1,16 @@
+# Private disk images and original files should not be committed by default.
+*.dsk
+*.hda
+*.img
+*.image
+*.iso
+*.toast
+*.sit
+*.bin
+*.hqx
+archives/
+private-disk-images/
+
+# Operating system clutter.
+.DS_Store
+Thumbs.db
