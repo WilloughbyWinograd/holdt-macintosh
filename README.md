@@ -4,6 +4,10 @@ Repository name: `holdt-macintosh`.
 
 This repository tracks the restoration of Willoughby's grandfather's Apple Macintosh SE and the plan to turn it into a preserved, reversible clock appliance.
 
+## Namesake
+
+Holdt refers to Terry Holdt, Willoughby's maternal grandfather. The Team 6502 archive identifies him as the Product and Program Manager for Microcomputers at MOS Technology and as the 6502 Process Development Manager. He was part of the group that left Motorola in 1974 to build the affordable MOS Technology 6502 microprocessor, after earlier managing products around the Motorola 6800 family.
+
 ## Machine Identified
 
 The prior photo session identified the computer as:
